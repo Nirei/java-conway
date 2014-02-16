@@ -1,4 +1,4 @@
 java-conway
 ===========
 
-Conway's Game
+Quick and dirty Conway's Game of Life on Java implemented using HashSets and the like.
